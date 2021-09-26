@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.tituloPrincipal{
+
+font-family: 'Roboto', sans-serif;
+color: #8a2be2;
+
+}
+
+div{
+
+height: 200px;
+background-image: url("https://europa.com.br/blog/wp-content/uploads/2019/05/mergulho-oceano.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+}
